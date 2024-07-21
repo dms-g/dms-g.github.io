@@ -1,0 +1,14 @@
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+  - jekyll-relative-links
+  - jekyll-remote-theme
+relative_links:
+  enabled: true
+  collections: true
+  
+permalink: pretty
+
+title: my site
+description: ?
+
+show_downloads: false
